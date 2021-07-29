@@ -27,6 +27,7 @@ _Please submit a pull request here if you would like to request more data. Our t
 
 1) Granular (anonymised, individual-level) data on deaths, e.g. age, sex, nationality, comorbidities.
 2) Deaths tabulated by age, sex, and occurrence date
+3) number of BID
 
 ### Vaccination
 
